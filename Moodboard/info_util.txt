@@ -1,0 +1,26 @@
+0 : authentication	 : (Faire temporaire : non noté : pour support)
+
+0 : reservation		:  (Faire temporaire : non noté : pour support)
+
+1 : user			: (à Faire completement : noté : pour obtenir une note : ++++++)
+
+1 : movie			:  (à Faire completement : noté : pour obtenir une note : ++++++)
+
+0 : scrapping		: (Faire temporaire : non noté : pour support)
+
+0 : review			: (Faire temporaire : non noté : pour support)
+
+1 : payment		: (à Faire completement : noté : pour obtenir une note : ++++++)
+
+1 : artist			: (à Faire completement : noté : pour obtenir une note : ++++++)
+
+0 : poster			 : (Faire temporaire : non noté : pour support)
+
+
+Supplémentaire obligatoire : 
+1 : Gateway :  (à Faire completement (partiellement obligatoire) : noté : pour obtenir une note)
+1 : Frontend (Heyflix) :  (à Faire completement : noté : pour obtenir une note  : ++++++)
+
+Supplementaire Facultative: 
+0 : Moodboard
+

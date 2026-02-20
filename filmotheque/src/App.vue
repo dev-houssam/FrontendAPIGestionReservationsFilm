@@ -14,11 +14,7 @@ import DroiteView from "@/views/DroiteView.vue";
     <div class="section-droite"><DroiteView></DroiteView></div>
 
   </div>
-
-
-
 </template>
-
 
 <style scoped>
   #window {
